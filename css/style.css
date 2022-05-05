@@ -45,12 +45,7 @@ nav {
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: #f1f1f1; color: black;}
 
-iframe {
-  height: 50vh;
-  width: 100%
-}
-
-img, div {
+div {
   display: inline-block;
   float: left;
 }
