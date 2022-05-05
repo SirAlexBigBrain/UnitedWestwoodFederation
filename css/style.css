@@ -3,9 +3,14 @@ body {
   background: linear-gradient(45deg, rgba(0,0,120,1) 0%, rgba(0,0,170,1) 50%, rgba(0,0,230,1) 100%);
   font-family: sans-serif;
 }
-h1, h2, h3, p, li {
-  color: blue;
-  font-family: sans-serif;
+h2, h3, p, li {
+  color: white;
+  font-family: sans-serif; 
+}
+h1 {
+  color: white;
+  font-family: cursive;
+  font-size: 100px;
 }
 nav {
   background-color: black;
