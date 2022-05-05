@@ -5,7 +5,8 @@ body {
 }
 h2, h3, p, li {
   color: white;
-  font-family: sans-serif; 
+  font-family: 'Aclonica';
+  font-size: 43px;
 }
 h1 {
   color: mediumturquoise;
