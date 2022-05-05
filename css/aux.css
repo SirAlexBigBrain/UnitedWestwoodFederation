@@ -4,13 +4,13 @@ body {
   font-family: sans-serif;
 }
 h2, h3, p, li {
-  color: aqua;
-  font-family: fantasy; 
+  color: white;
+  font-family: sans-serif; 
 }
 h1 {
-  color: navy;
+  color: white;
   font-family: cursive;
-  font-size: 24px;
+  font-size: 100px;
 nav {
   background-color: black;
   height: 64px;
