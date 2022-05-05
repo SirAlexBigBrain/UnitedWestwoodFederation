@@ -7,11 +7,13 @@ h2, h3, p, li {
   color: skyblue;
   font-family: monospace;
   font-size: 43px;
+  text-shadow: 2px 2px 5px mediumturquoise;
 }
 h1 {
   color: mediumturquoise;
   font-family: cursive;
   font-size: 60px;
+  text-shadow: 2px 2px 5px skyblue;
 }
 nav {
   background-color: black;
