@@ -12,6 +12,7 @@ h1 {
   color: white;
   font-family: cursive;
   font-size: 100px;
+  text-shadow: 2px 2px 5px mediumturquoise;
 nav {
   background-color: black;
   height: 64px;
