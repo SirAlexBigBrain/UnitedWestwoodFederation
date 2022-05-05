@@ -1,6 +1,6 @@
 body {
   background: rgb(0,0,120);
-  background: linear-gradient(90deg, rgba(0,0,120,1) 0%, rgba(0,0,135,1) 50%, rgba(0,0,150,1) 100%);
+  background: linear-gradient(45deg, rgba(0,0,120,1) 0%, rgba(0,0,170,1) 50%, rgba(0,0,230,1) 100%);
   font-family: sans-serif;
 }
 h1, h2, h3, p, li {
