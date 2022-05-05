@@ -4,8 +4,9 @@ body {
   font-family: sans-serif;
 }
 h2, h3, p, li {
-  color: white;
-  font-family: sans-serif; 
+  color: skyblue;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 5px mediumturquoise;
 }
 h1 {
   color: white;
