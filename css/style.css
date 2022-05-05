@@ -54,3 +54,8 @@ div {
   display: inline-block;
   float: left;
 }
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
