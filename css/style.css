@@ -1,1 +1,8 @@
-
+body {
+  background: rgb(0,127,0);
+  background: linear-gradient(90deg, rgba(0,127,0,1) 0%, rgba(0,255,0,1) 50%, rgba(0,127,0,1) 100%);
+  font-family: sans-serif;
+}
+h1, h2, h3, p, li {
+  color: blue;
+  font-family: sans-serif;
