@@ -10,6 +10,7 @@ h2, h3, p, li {
 h1 {
   color: navy;
   font-family: cursive;
+  font-size: 24px;
 nav {
   background-color: black;
   height: 64px;
