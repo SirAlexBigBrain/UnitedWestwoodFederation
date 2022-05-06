@@ -23,6 +23,12 @@ nav {
   background-color: black;
   color: blue;
   height: 64px;
+   float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 .dropbtn {
   background-color: black;
@@ -62,9 +68,35 @@ div {
   top: 0;
   width: 100%;
 }
+
+.navbar :hover {
+  background-color: black;
+  color: blue;
+}
+
+.navbar .active {
+  background-color: black;
+  color: blue;
+}
+
+.content {
+  padding: 16px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
 img {
   border-radius:50%;
 }
+
 .button {
   background-color: #2871e6; /* Blue */
   border: none;
