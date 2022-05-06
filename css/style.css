@@ -65,4 +65,13 @@ div {
 img {
   border-radius:50%;
 }
-
+.button {
+  background-color: #0d7259; /* Blue */
+  border: none;
+  color: mediumturquoise;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
