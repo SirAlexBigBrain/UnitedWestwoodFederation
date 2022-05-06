@@ -3,10 +3,15 @@ body {
   background: linear-gradient(45deg, rgba(0,0,30,1) 0%, rgba(0,0,130,1) 50%, rgba(0,0,230,1) 100%);
   font-family: sans-serif;
 }
-h2, h3, p, li {
+h2, h3, p {
   color: skyblue;
   font-family: monospace;
   font-size: 43px;
+  text-shadow: 2px 2px 5px mediumturquoise;
+  li {
+    color: skyblue;
+  font-family: monospace;
+  font-size: 18px;
   text-shadow: 2px 2px 5px mediumturquoise;
 }
 h1 {
