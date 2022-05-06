@@ -3,7 +3,7 @@ body {
   background: linear-gradient(45deg, rgba(0,0,30,1) 0%, rgba(0,0,130,1) 50%, rgba(0,0,230,1) 100%);
   font-family: sans-serif;
 }
-h2, h3, p, li {
+h2, h3, li {
   color: skyblue;
   font-family: monospace;
   font-size: 43px;
@@ -14,6 +14,12 @@ h1 {
   font-family: cursive;
   font-size: 60px;
   text-shadow: 2px 2px 5px skyblue;
+}
+p {
+  color: magenta;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  font-family: monospace;
+  font-size: 25px;
 }
 nav {
   background-color: black;
